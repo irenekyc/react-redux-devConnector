@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://taskapp:thisisIrene123@cluster0-nrpkf.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "1c7092a97b2e435462ea",
+    "githubClientSecret": "e799210a084e41f2c3316eb0c831f69376335a75"
+}
